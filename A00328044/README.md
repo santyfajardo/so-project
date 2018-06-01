@@ -214,7 +214,7 @@ sudo iptables -t nat -I PREROUTING -i enp0s8 -p TCP -d $PUBLIC_IP --dport $PORT 
 ```
 Por medio del navegador Chrome se hacen peticiones, a la IP del servidor (172.30.165.61)
 ![](Imagenes/web.PNG)
-![](Imagenes/web1.PNG)
+![](Imagenes/web2.PNG)
 
 
 ### Opcional
